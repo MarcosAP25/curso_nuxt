@@ -1,0 +1,20 @@
+{
+  "name": "02-nuxt",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/eslint": "^1.15.2",
+    "@nuxt/fonts": "^0.14.0",
+    "nuxt": "^4.4.2",
+    "nuxt-icons": "^4.0.0",
+    "vue": "^3.5.31",
+    "vue-router": "^5.0.4"
+  }
+}

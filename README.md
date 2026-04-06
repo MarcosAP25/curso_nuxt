@@ -1,4 +1,6 @@
-# Nuxt Minimal Starter
+# Curso de Nuxt - DevTalles
+
+Proyecto desarrollado siguiendo el curso de Nuxt de [DevTalles](https://devtalles.com).
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 

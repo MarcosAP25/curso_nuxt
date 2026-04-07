@@ -15,7 +15,7 @@ export default defineNuxtConfig({
       ]
     }
   },
-  modules: ['@nuxt/eslint', '@nuxt/fonts', 'nuxt-icons'],
+  modules: ['@nuxt/eslint', '@nuxt/fonts', 'nuxt-icons', '@nuxt/ui'],
 
   ///SPA Single Page App
   // ssr:false,

@@ -2,7 +2,8 @@
 
 <template>
   <div>
-    Page: index
+    <h1>Page: index</h1>
+    <UButton>Button</UButton>
   </div>
 </template>
 
